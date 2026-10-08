@@ -88,15 +88,15 @@ console.log("Welcome to my universe 🌌");
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=2500031148&show_icons=true&theme=tokyonight&bg_color=0d0221&border_color=7B2FBE&title_color=00ffff&text_color=c77dff&icon_color=00ffff&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+      <img src="https://github-readme-stats.vercel.app/api?username=2500031148&show_icons=true&theme=tokyonight&bg_color=0d0221&border_color=7B2FBE&title_color=00ffff&text_color=c77dff&icon_color=00ffff&include_all_commits=true&count_private=true&rank_icon=github" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2500031148&layout=donut&theme=tokyonight&bg_color=0d0221&border_color=7B2FBE&title_color=00ffff&text_color=c77dff&langs_count=8&hide=scss,less" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2500031148&layout=donut&theme=tokyonight&bg_color=0d0221&border_color=7B2FBE&title_color=00ffff&text_color=c77dff&langs_count=8" />
     </td>
   </tr>
 </table>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=2500031148&theme=tokyonight&background=0d0221&border=7B2FBE&stroke=7B2FBE&ring=00ffff&fire=ff6b6b&currStreakNum=00ffff&sideNums=c77dff&currStreakLabel=00ffff&sideLabels=7B2FBE&dates=c77dff" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=2500031148&theme=tokyonight&background=0d0221&border=7B2FBE&stroke=7B2FBE&ring=00ffff&fire=ff6b6b&currStreakNum=00ffff&sideNums=c77dff&currStreakLabel=00ffff&sideLabels=7B2FBE&dates=c77dff" />
 
 </div>
 
@@ -106,11 +106,7 @@ console.log("Welcome to my universe 🌌");
 
 ## 🏆 `< TROPHIES />`
 
-<img src="https://github-profile-trophy.vercel.app/?username=2500031148&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=2500031148&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=5&rank=SECRET,SSS,SS,S" />
+<img src="https://github-profile-trophy.vercel.app/?username=2500031148&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
@@ -120,7 +116,11 @@ console.log("Welcome to my universe 🌌");
 
 ## 🌐 `< 3D CONTRIBUTION GRAPH />`
 
-<img src="https://github-readme-3d-contrib.vercel.app/api?username=2500031148&theme=vue-dark&flatten=1" />
+<img src="https://github-readme-3d-contrib.vercel.app/api/occasional-3d-contrib/2500031148.svg" onerror="this.style.display='none'" />
+
+<a href="https://skyline.github.com/2500031148/2026">
+  <img src="https://img.shields.io/badge/🌆_GitHub_Skyline_2026-View_in_3D-00ffff?style=for-the-badge&labelColor=0d0221&color=7B2FBE" />
+</a>
 
 </div>
 
@@ -130,7 +130,7 @@ console.log("Welcome to my universe 🌌");
 
 ## 📈 `< ACTIVITY GRAPH />`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2500031148&theme=tokyo-night&bg_color=0d0221&color=00ffff&line=7B2FBE&point=c77dff&area=true&area_color=7B2FBE&hide_border=true&custom_title=Praveen's%20Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2500031148&theme=tokyo-night&bg_color=0d0221&color=00ffff&line=7B2FBE&point=c77dff&area=true&hide_border=true&custom_title=Praveen%27s+Contribution+Graph" />
 
 </div>
 
@@ -191,8 +191,10 @@ console.log("Welcome to my universe 🌌");
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2500031148/2500031148/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2500031148/2500031148/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/2500031148/2500031148/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/2500031148/2500031148/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+> 🔄 *Snake auto-generates every 12 hours via GitHub Actions*
 
 </div>
 
