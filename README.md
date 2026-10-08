@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- MATRIX RAIN HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0a2e,60:150050,100:0d0221&height=250&section=header&text=PRAVEEN%20REDDY&fontSize=70&fontColor=00ffff&animation=fadeIn&fontAlignY=40&stroke=7B2FBE&strokeWidth=2&desc=< Full%20Stack%20Dev%20%7C%20CSE%20Student%20%7C%20Open%20Source%20%2F>&descAlignY=60&descSize=18&descColor=c77dff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:150050,70:2d0066,100:0d0221&height=250&section=header&text=PRAVEEN%20REDDY&fontSize=70&fontColor=00ffff&animation=fadeIn&fontAlignY=40&stroke=7B2FBE&strokeWidth=2&desc=%3C%20Full%20Stack%20Dev%20%7C%20CSE%20Student%20%7C%20Open%20Source%20%2F%3E&descAlignY=60&descSize=18&descColor=c77dff" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%E2%9A%A1+Building+the+Future+with+Code;%F0%9F%A7%A0+CSE+Student+%40+KL+University;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%90%8D+Python+%26+Data+Science+Enthusiast;%F0%9F%9A%80+Open+Source+Contributor;%F0%9F%8E%AF+Turning+Ideas+into+Reality" alt="Typing SVG" />
@@ -106,7 +106,7 @@ console.log("Welcome to my universe 🌌");
 
 ## 🏆 `< TROPHIES />`
 
-<img src="https://github-profile-trophy.vercel.app/?username=2500031148&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=2500031148&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
@@ -114,9 +114,9 @@ console.log("Welcome to my universe 🌌");
 
 <div align="center">
 
-## 🌐 `< 3D CONTRIBUTION GRAPH />`
+## 📊 `< METRICS & INSIGHTS />`
 
-<img src="https://github-readme-3d-contrib.vercel.app/api/occasional-3d-contrib/2500031148.svg" onerror="this.style.display='none'" />
+<img src="https://github-readme-stats.vercel.app/api?username=2500031148&show_icons=true&theme=tokyonight&bg_color=0d0221&border_color=7B2FBE&title_color=00ffff&text_color=c77dff&icon_color=00ffff&hide_border=false&rank_icon=github&custom_title=Praveen%27s+GitHub+Metrics" />
 
 <a href="https://skyline.github.com/2500031148/2026">
   <img src="https://img.shields.io/badge/🌆_GitHub_Skyline_2026-View_in_3D-00ffff?style=for-the-badge&labelColor=0d0221&color=7B2FBE" />
@@ -130,7 +130,7 @@ console.log("Welcome to my universe 🌌");
 
 ## 📈 `< ACTIVITY GRAPH />`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2500031148&theme=tokyo-night&bg_color=0d0221&color=00ffff&line=7B2FBE&point=c77dff&area=true&hide_border=true&custom_title=Praveen%27s+Contribution+Graph" />
+[![Praveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2500031148&theme=tokyo-night&bg_color=0d0221&color=00ffff&line=7B2FBE&point=c77dff&area=true&hide_border=true)](https://github.com/2500031148)
 
 </div>
 
