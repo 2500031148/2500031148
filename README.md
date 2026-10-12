@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- 3D WAVING HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060714,25:120d31,65:2d1b69,100:060714&height=240&section=header&text=Praveen%20Reddy&fontSize=74&fontColor=f3f4f6&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=B.Tech%20CSE%20%E2%80%A2%20Full-Stack%20%26%203D%20Web%20Architect%20%E2%80%A2%20KL%20University&descAlignY=62&descSize=17&descColor=a78bfa" alt="Praveen Reddy Header" />
+<a href="https://2500031148.github.io">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060714,70:2d1b69,100:060714&height=220&section=header&text=Praveen%20Reddy&fontSize=70&fontColor=ffffff&desc=B.Tech%20CSE%20%E2%80%A2%20Full-Stack%20%26%203D%20Web%20Architect%20%E2%80%A2%20KL%20University&descSize=16&descColor=a78bfa" alt="Praveen Reddy Header" />
+</a>
 
 <!-- DYNAMIC TYPING SVG ANIMATION -->
 <a href="https://2500031148.github.io">
@@ -96,35 +98,16 @@ const praveenReddy = {
 
 ---
 
-## 🐍 Contribution Activity & 3D Grid
-
-<div align="center">
-
-<!-- EATING SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2500031148/2500031148/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2500031148/2500031148/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/2500031148/2500031148/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
 ## 📊 Live GitHub Metrics
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=2500031148&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=060714&title_color=a78bfa&icon_color=7c3aed&text_color=e0d7ff&count_private=true&include_all_commits=true" alt="Praveen Reddy's GitHub Stats" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=2500031148&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=060714&title_color=a78bfa&icon_color=7c3aed&text_color=e0d7ff" alt="Praveen Reddy's GitHub Stats" />
 <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2500031148&layout=compact&theme=midnight-purple&hide_border=true&bg_color=060714&title_color=a78bfa&text_color=e0d7ff&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
 <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=2500031148&theme=midnight-purple&hide_border=true&background=060714&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e0d7ff&dates=a78bfa&currStreakNum=e0d7ff&sideNums=e0d7ff" alt="GitHub Streak" />
-
-<br/><br/>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=2500031148&theme=react-dark&bg_color=060714&color=a78bfa&line=7c3aed&point=f472b6&hide_border=true)](https://github.com/2500031148)
 
 </div>
 
@@ -169,7 +152,9 @@ const praveenReddy = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060714,25:120d31,65:2d1b69,100:060714&height=130&section=footer&fontColor=a78bfa&fontSize=16" alt="Footer Wave" />
+<a href="https://2500031148.github.io">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060714,70:2d1b69,100:060714&height=130&section=footer&fontColor=a78bfa&fontSize=16" alt="Footer Wave" />
+</a>
 
 *"Code is poetry. Make it beautiful. 💜"*
 
